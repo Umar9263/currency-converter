@@ -1,13 +1,13 @@
 import tkinter as tk
 
 # Conversion rates (as of 2024-04-01)
-INR_TO_USD = 0.012
-INR_TO_EUR = 0.0112
-INR_TO_GBP = 0.009
-INR_TO_PKR = 3.330
-INR_TO_AED = 0.044
-INR_TO_CAD = 0.016
-INR_TO_JPY = 1.853
+INR_TO_USD = 0.0119
+INR_TO_EUR = 0.0110
+INR_TO_GBP = 0.0094
+INR_TO_PKR = 3.3367
+INR_TO_AED = 0.0439
+INR_TO_CAD = 0.0163
+INR_TO_JPY = 1.9257
 
 def convert_currency():
     try:
